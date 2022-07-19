@@ -32,7 +32,7 @@ python -m imgc image_path
 
 | Data                        | Normal_Image                              | IMGC_Image                    |
 |-----------------------------|-------------------------------------------|-------------------------------|
-| Image                       | <img src="https://clck.ru/sKNj7" width=300px>|  <img src="https://clck.ru/sKNke" width=300px>|
+| Image                       | <img src="https://clck.ru/sKNj7" width=200px>|  <img src="https://clck.ru/sKNke" width=200px>|
 | Filename                    | pexels-photo-2246476.jpg                  | pexels-photo-2246476_IMGC.jpg |
 | FileDateTime                | 1658148105                                | 1658149082                    |
 | FileSize                    | 2880657                                   | 2696645                       |
